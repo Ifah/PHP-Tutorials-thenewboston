@@ -1,0 +1,26 @@
+<producers>
+	<producer>
+		<name>Ifah</name>
+		<age>22</age>
+		<show>
+			<showname>A show</showname>
+			<showdate>12th December 2010</showdate>
+		</show>
+		<show>
+			<showname>Another show</showname>
+			<showdate>5th December 2008</showdate>
+		</show>
+	</producer>
+	<producer>
+		<name>Rana</name>
+		<age>21</age>
+		<show>
+			<showname>Better show</showname>
+			<showdate>26th May 2014</showdate>
+		</show>
+	</producer>
+	<producer>
+		<name>Yo</name>
+		<age>30</age>
+	</producer>
+</producers>
